@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0%;
+	right: 0%;
+	overflow: hidden;
+	top: 0%;
+	bottom: 0%;
+	margin: 0;
+	padding: 0;
+	border: none;
+	background-image: linear-gradient(to top right, #499ce9, #d028f7);
+	z-index: -1;
+}
+
